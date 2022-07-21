@@ -1,7 +1,13 @@
 # SophosApp
 
-**TODO: Add description**
-Repositorio utilizado para las clases de Elixir por Brayan Jesus Gonzalez Aguilera
+**Repositorio utilizado para las clases de Elixir por Brayan Jesus Gonzalez Aguilera**
+
+Los archivos correspondientes al foro **Asignación: Pattern matching, funciones, listas** son los siguientes:
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/fizzbuzz.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/length.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/array_oper.ex
+
+
 
 ## Installation
 
