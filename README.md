@@ -1,6 +1,7 @@
 # SophosApp
 
 **TODO: Add description**
+Repositorio utilizado para las clases de Elixir por Brayan Jesus Gonzalez Aguilera
 
 ## Installation
 
