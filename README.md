@@ -1,3 +1,4 @@
+
 # SophosApp
 
 **Repositorio utilizado para las clases de Elixir por Brayan Jesus Gonzalez Aguilera**
@@ -7,6 +8,10 @@ Los archivos correspondientes al foro **Asignación: Pattern matching, funciones
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/length.ex
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/array_oper.ex
 
+Los archivos correspondientes al foro **Asignación: Programación funcional y Procesamiento de colecciones** son los siguientes:
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day1.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day2.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day1.ex
 
 
 ## Installation
