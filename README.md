@@ -13,6 +13,9 @@ Los archivos correspondientes al foro **Asignación: Programación funcional y P
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day2.ex
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day1.ex
 
+Los archivos correspondientes al foro **Asignación: Crear un ping pong de procesos** son los siguientes:
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/ping_pong.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/generic_server.ex
 
 ## Installation
 
