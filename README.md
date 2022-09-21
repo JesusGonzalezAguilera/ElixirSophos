@@ -13,9 +13,18 @@ Los archivos correspondientes al foro **Asignación: Programación funcional y P
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day2.ex
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/advent_of_code_day1.ex
 
-Los archivos correspondientes al foro **Asignación: Crear un ping pong de procesos** son los siguientes:
+Los archivos correspondientes al foro **Asignación: Crear un ping pong de procesos** y **TAREA: Ping pong Distribuido** son los siguientes:
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/ping_pong.ex
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/generic_server.ex
+
+Los archivos correspondientes a la **TAREA: Agregar la aplicación con el árbol de supervisión** son los siguientes:
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/sophos_application.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/supervisor.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/fibonacci_supervisor.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/factorial_supervisor.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/factorial_gen_server.ex
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/fibonacci_gen_server.ex
+
 
 ## Installation
 
