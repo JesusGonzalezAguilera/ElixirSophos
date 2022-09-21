@@ -25,6 +25,13 @@ Los archivos correspondientes a la **TAREA: Agregar la aplicación con el árbol
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/factorial_gen_server.ex
 * https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/sophos_app/lib/sophos_app/fibonacci_gen_server.ex
 
+# TodoApp
+
+**Repositorio utilizado para las clases de Phoenix-Elixir por Brayan Jesus Gonzalez Aguilera**
+
+El repositorio se encuentra en la siguiente ruta: 
+* https://github.com/JesusGonzalezAguilera/ElixirSophos/blob/main/todo_app
+
 
 ## Installation
 
