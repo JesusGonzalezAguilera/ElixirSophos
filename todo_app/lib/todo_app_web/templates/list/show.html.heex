@@ -12,7 +12,15 @@
     <%= @list.tags %>
   </li>
 
-  <h2>Tasks for this list</h2>
+  <h2> 
+    Tasks for this list
+  </h2>
+
+  <ul>
+    <%= for t <- @list.tasks do %>
+      <li><%= t.description %></li>
+    <% end %>
+  </ul>
 
 </ul>
 
